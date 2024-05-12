@@ -1,0 +1,19 @@
+# IntelliJ project files
+.idea
+
+# Git
+.git
+.gitignore
+
+# Docker
+.docker
+
+# Python
+app/__pycache__/
+app/*/__pycache__/
+app/*/*/__pycache__/
+app/*/*/*/__pycache__/
+.env/
+.venv/
+venv//recipeenv/
+app/core/migrations/0001_initial.py
